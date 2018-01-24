@@ -1,4 +1,4 @@
-# FoxieBot  
+# CoolBot  
 A new chatbot for Pokemon Showdown
 
 Set-up
@@ -7,10 +7,7 @@ Set-up
 ``node app.js [your name]``
 You will be given admin privileges on the bot that way.
 
-License
--------
-FoxieBot is distributed under the terms of the [MIT License][1].
+# Special Thanks
 
-  [1]: https://github.com/sparkychild/FoxieBot/blob/master/LICENSE
-
-[![Dependency Status](https://david-dm.org/sparkychild/FoxieBot.svg)](https://david-dm.org/sparkychild/FoxieBot)
+1) A Helpful Rayquaza
+2) SparkyChild
